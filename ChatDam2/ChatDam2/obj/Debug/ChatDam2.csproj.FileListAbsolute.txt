@@ -1,0 +1,34 @@
+c:\users\david\documents\visual studio 2015\Projects\ChatDam2\ChatDam2\bin\Debug\ChatDam2.exe.config
+c:\users\david\documents\visual studio 2015\Projects\ChatDam2\ChatDam2\bin\Debug\ChatDam2.exe
+c:\users\david\documents\visual studio 2015\Projects\ChatDam2\ChatDam2\bin\Debug\ChatDam2.pdb
+c:\users\david\documents\visual studio 2015\Projects\ChatDam2\ChatDam2\bin\Debug\MySql.Data.dll
+c:\users\david\documents\visual studio 2015\Projects\ChatDam2\ChatDam2\obj\Debug\ChatDam2.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\ChatDam2\ChatDam2\obj\Debug\ChatDam2.Form1.resources
+c:\users\david\documents\visual studio 2015\Projects\ChatDam2\ChatDam2\obj\Debug\ChatDam2.Form2Chat.resources
+c:\users\david\documents\visual studio 2015\Projects\ChatDam2\ChatDam2\obj\Debug\ChatDam2.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\ChatDam2\ChatDam2\obj\Debug\ChatDam2.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\ChatDam2\ChatDam2\obj\Debug\ChatDam2.exe
+c:\users\david\documents\visual studio 2015\Projects\ChatDam2\ChatDam2\obj\Debug\ChatDam2.pdb
+C:\Proyectos\ChatDam2\ChatDam2\bin\Debug\ChatDam2.exe.config
+C:\Proyectos\ChatDam2\ChatDam2\obj\Debug\ChatDam2.exe
+C:\Proyectos\ChatDam2\ChatDam2\obj\Debug\ChatDam2.pdb
+C:\Proyectos\ChatDam2\ChatDam2\bin\Debug\ChatDam2.exe
+C:\Proyectos\ChatDam2\ChatDam2\bin\Debug\ChatDam2.pdb
+C:\Proyectos\ChatDam2\ChatDam2\obj\Debug\ChatDam2.csprojResolveAssemblyReference.cache
+C:\Proyectos\ChatDam2\ChatDam2\obj\Debug\ChatDam2.Properties.Resources.resources
+C:\Proyectos\ChatDam2\ChatDam2\obj\Debug\ChatDam2.csproj.GenerateResource.Cache
+C:\Proyectos\ChatDam2\ChatDam2\obj\Debug\ChatDam2.LOGIN.resources
+C:\Proyectos\ChatDam2\ChatDam2\obj\Debug\ChatDam2.CHAT.resources
+C:\Proyectos\ChatDam2\ChatDam2\obj\Debug\ChatDam2.PERFIL.resources
+C:\Users\jaliy\Downloads\ChatDam2\ChatDam2\bin\Debug\ChatDam2.exe.config
+C:\Users\jaliy\Downloads\ChatDam2\ChatDam2\bin\Debug\ChatDam2.exe
+C:\Users\jaliy\Downloads\ChatDam2\ChatDam2\bin\Debug\ChatDam2.pdb
+C:\Users\jaliy\Downloads\ChatDam2\ChatDam2\obj\Debug\ChatDam2.csprojAssemblyReference.cache
+C:\Users\jaliy\Downloads\ChatDam2\ChatDam2\obj\Debug\ChatDam2.LOGIN.resources
+C:\Users\jaliy\Downloads\ChatDam2\ChatDam2\obj\Debug\ChatDam2.CHAT.resources
+C:\Users\jaliy\Downloads\ChatDam2\ChatDam2\obj\Debug\ChatDam2.PERFIL.resources
+C:\Users\jaliy\Downloads\ChatDam2\ChatDam2\obj\Debug\ChatDam2.Properties.Resources.resources
+C:\Users\jaliy\Downloads\ChatDam2\ChatDam2\obj\Debug\ChatDam2.csproj.GenerateResource.cache
+C:\Users\jaliy\Downloads\ChatDam2\ChatDam2\obj\Debug\ChatDam2.csproj.CopyComplete
+C:\Users\jaliy\Downloads\ChatDam2\ChatDam2\obj\Debug\ChatDam2.exe
+C:\Users\jaliy\Downloads\ChatDam2\ChatDam2\obj\Debug\ChatDam2.pdb
